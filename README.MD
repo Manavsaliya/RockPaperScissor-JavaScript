@@ -12,7 +12,7 @@ designing
 - Game draw message
 
 Play Online
-Click Here :- [Rock Paper Scissor](https://rock-paper-scissor-javascript-two.vercel.app/).
+Click Here :- [Rock Paper Scissor](https://rock-paper-scissor-javascript-two.vercel.app/)
 
 ## Screenshots of Game
 
