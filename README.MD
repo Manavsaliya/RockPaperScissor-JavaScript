@@ -3,7 +3,7 @@
 Make Rock Paper Scissor game using HTML, CSS, JavaScript with Timimg or mordern
 designing
 
-** Features:- **
+**Features:-**
 
 - CSS effects
 - User Score
